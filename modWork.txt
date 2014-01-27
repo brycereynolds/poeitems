@@ -1,0 +1,162 @@
+/*
+Overall:
+    - for each mod roll all the other mods against it - this is to account for odd combinations
+    of prefix and suffix
+    - each of these "rolls" as a group is added to the potential roll list
+ */
+
+
+
+When I show the template I need to know how many roll combinations I have and cycle between them all.
+
+0: "43% increased Armour and Energy Shield"
+1: "+75 to maximum Life"
+2: "44% increased Rarity of Items found"
+3: "+35% to Fire Resistance"
+4: "15% increased Block and Stun Recovery"
+
+// What we should be able to get to..
+
+
+
+"Straight Rolls"
+1: "+75 to maximum Life"
+3: "+35% to Fire Resistance"
+
+Rolls:
+    +75 to maximum Life
+    Prefix lvl 44 : 75
+
+    +35% to Fire Resistance
+    Suffix lvl 48 : 35
+
+
+
+
+"Dual Prefix/Suffix Roll" - When mod.possibleAffixes > 1
+2: "44% increased Rarity of Items found"
+
+Min/Maxing
+Rolls:
+          Prefix lvl 39 : 18
+    (max) Suffix lvl 75 : 26
+
+    (max) Prefix lvl 62 : 24
+          Suffix lvl 53 : 20
+
+Max/Max (ie. This means a user could divine)
+Rolls:
+    (max) Suffix lvl 75 : 21 (low bound 21 - upper 26)
+    (max) Prefix lvl 62 : 23 (low bound 19 - upper 24)
+
+
+
+
+"Hybrid Roll" - When mod.nameLookup > 1
+0: "43% increased Armour and Energy Shield"
+4: "15% increased Block and Stun Recovery"
+
+Hyrid Roll:
+    Prefix lvl 60 : 43 / 15
+
+
+No Change Affixes (count hybrids + straight rolls):
+    Prefix: 2
+    Suffix: 1
+
+Cycle Dual Affix Rolls (for now this determines the possible ones):
+    Prefix : 1
+    Suffix : 1
+
+
+
+/*
+Base Item Found Rarity
+
+Item Level 75
+
+PREFIX
+Name            Level   Value
+Magpie's        20      8 to 12
+Pirate's        39      13 to 18
+Dragon's        62      19 to 24
+
+Name            Level   Value
+of Plunder      3       6 to 10
+of Raiding      30      11 to 14
+of Archaeology  53      15 to 20
+of Excavation   75      21 to 26
+
+ */
+
+// Procedure when an item can be a suffix OR a prefix
+// 1. Delay this mod until the end
+// 
+
+// We rolled 44% - decide what the possible rolls are between these...
+// Item level 75
+
+// Discovered Roll:
+
+(Suffix Discovery)
+Roll: 
+    Prefix lvl 39 : 18
+    Suffix lvl 75 : 26 (max)
+Roll:
+    Prefix lvl 62 : 24
+    Suffix lvl 53 : 20
+
+(Prefix Discovery)
+Roll:
+    Suffix lvl 75 : 26
+    Prefix lvl 39 : 18
+Roll:
+    Suffix lvl 53 : 20
+    Prefix lvl 62 : 24
+Roll:
+    Suffix lvl 30 : 14
+    Prefix Impossible
+
+Discovery yielded the same possible rolls via going through prefix first or suffix.
+Min/Maxing
+Rolls:
+          Prefix lvl 39 : 18
+    (max) Suffix lvl 75 : 26
+
+    (max) Prefix lvl 62 : 24
+          Suffix lvl 53 : 20
+
+Can we try and maximize lvls between both (ie. This means a user could divine)
+Rolls:
+    (max) Suffix lvl 75 : 21 (low bound 21 - upper 26)
+    (max) Prefix lvl 62 : 23 (low bound 19 - upper 24)
+
+
+
+
+
+Prefix: 2
+Suffix: 1
+
+Roll One:
+    Prefix lvl 20 : 12
+
+Remainder is 44 - 12 = 32
+
+Can a suffix roll for 32?
+No. Roll One not possible.
+
+Roll Two:
+    Prefix lvl 39 : 18
+
+Remainder = 26
+
+Can a suffix roll for 26?
+Yes.
+
+Roll: 
+    Prefix lvl 39 : 18
+    Suffix lvl 75 : 26 (max)
+
+Continue...
+

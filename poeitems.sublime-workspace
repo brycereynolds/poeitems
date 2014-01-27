@@ -1,0 +1,1840 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"value_one"
+			],
+			[
+				"max_v",
+				"max_value_one"
+			],
+			[
+				"min_v",
+				"min_value_one"
+			],
+			[
+				"poss",
+				"possibleRolls"
+			],
+			[
+				"aff",
+				"affinities"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"require",
+				"requirements"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"this",
+				"this	$(this)"
+			],
+			[
+				"obser",
+				"observationManager"
+			],
+			[
+				"activ",
+				"activity"
+			],
+			[
+				"work",
+				"workflowstep-popover-list"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"basic",
+				"basic-popover-list"
+			],
+			[
+				"for",
+				"formatted"
+			],
+			[
+				"origi",
+				"originalRubricId"
+			],
+			[
+				"rub",
+				"rubric_id"
+			],
+			[
+				"Activ",
+				"ActivityGroupTemplate"
+			],
+			[
+				"show",
+				"show_all_options"
+			],
+			[
+				"hide",
+				"hide_all_options"
+			],
+			[
+				"default",
+				"default_org_id"
+			],
+			[
+				"orgaId",
+				"organizationId"
+			],
+			[
+				"c",
+				"collection"
+			],
+			[
+				"Organi",
+				"OrganizationAncestor"
+			],
+			[
+				"oras",
+				"organizations"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"organi",
+				"organizations"
+			],
+			[
+				"orga",
+				"organizationList"
+			],
+			[
+				"options",
+				"options"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"les",
+				"less_important_holder"
+			],
+			[
+				"less_im",
+				"less_important"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"observation_n",
+				"observation_name_holder"
+			],
+			[
+				"organizationid",
+				"organization_id"
+			],
+			[
+				"organiza",
+				"organization_id"
+			],
+			[
+				"or",
+				"organization_id"
+			],
+			[
+				"oran",
+				"organization"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"as",
+				"asse	assertEquals"
+			],
+			[
+				"sho",
+				"showQuickRatingFeatureNotice"
+			],
+			[
+				"ResourceCont",
+				"ResourceContent"
+			],
+			[
+				"Go",
+				"Goal"
+			],
+			[
+				"contents",
+				"contentsAdded"
+			],
+			[
+				"conten",
+				"contentId"
+			],
+			[
+				"actgr",
+				"act_grp_data"
+			],
+			[
+				"queTemplI",
+				"questionTemplateId"
+			],
+			[
+				"queTemId",
+				"questionTemplateId"
+			],
+			[
+				"questionTe",
+				"questionTemplateId"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"Resource",
+				"Resource"
+			],
+			[
+				"resrces",
+				"resources"
+			],
+			[
+				"resourceConte",
+				"resourceContentAttemptId"
+			],
+			[
+				"resourceatteid",
+				"resource_attempt_id"
+			],
+			[
+				"resource_content_attempt_",
+				"data_resource_content_attempt_evidence_id"
+			],
+			[
+				"resouat",
+				"resourceAttempt"
+			],
+			[
+				"ResourceContent",
+				"ResourceContentAttempt"
+			],
+			[
+				"bloomliite",
+				"bloomlistItem"
+			],
+			[
+				"resourcecon",
+				"resourceContentId"
+			],
+			[
+				"resouatt",
+				"resourceAttemptId"
+			],
+			[
+				"res",
+				"resourceId"
+			],
+			[
+				"resou",
+				"resourceContent"
+			],
+			[
+				"resourceCont",
+				"resourceContentId"
+			],
+			[
+				"resourceCon",
+				"ResourceContent"
+			],
+			[
+				"resourceAt",
+				"resourceAttemptId"
+			],
+			[
+				"data",
+				"dataToSave"
+			],
+			[
+				"db",
+				"dbColumns"
+			],
+			[
+				"todo_question_pool",
+				"todo_question_pool_attempt_id"
+			],
+			[
+				"tod",
+				"todoQuestions"
+			],
+			[
+				"at",
+				"attempts"
+			],
+			[
+				"tar",
+				"targetLink"
+			],
+			[
+				"ResourceCon",
+				"ResourceContent"
+			],
+			[
+				"surtype",
+				"surveyType"
+			],
+			[
+				"Resour",
+				"Resource"
+			],
+			[
+				"resourc",
+				"resource_types"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"RE",
+				"ResourceContent"
+			],
+			[
+				"rescon",
+				"resourceContentId"
+			],
+			[
+				"resourceConi",
+				"resourceContentId"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"validat",
+				"validationErrors"
+			],
+			[
+				"Re",
+				"ResourceContent"
+			],
+			[
+				"error",
+				"errorOutDueToDB"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"resources",
+				"resources"
+			],
+			[
+				"Res",
+				"Resource"
+			],
+			[
+				"fix",
+				"fixtures"
+			],
+			[
+				"query",
+				"queryParams"
+			],
+			[
+				"getResBy",
+				"getResourceContentsByResourceIds"
+			],
+			[
+				"ast",
+				"assertTrue"
+			],
+			[
+				"contthu",
+				"contentForThumbnail"
+			],
+			[
+				"ct",
+				"contentThumbnail"
+			],
+			[
+				"usresou",
+				"userResources"
+			],
+			[
+				"present",
+				"presentation"
+			],
+			[
+				"last",
+				"lastModified"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"que",
+				"question_pool_template_id"
+			],
+			[
+				"questiontempl",
+				"question_pool_template_id"
+			],
+			[
+				"question_pool_",
+				"question_pool_template_id"
+			],
+			[
+				"requ",
+				"required_resource"
+			],
+			[
+				"question",
+				"question_pool_template_description"
+			],
+			[
+				"Ht",
+				"HttpResponseRedirect	Default"
+			],
+			[
+				"get",
+				"get_object_or_404	Default"
+			],
+			[
+				"HT",
+				"HttpResponseRedirect	Default"
+			],
+			[
+				"sele",
+				"selected_choice	Default"
+			],
+			[
+				"render",
+				"render_to_response	Default"
+			],
+			[
+				"poll",
+				"poll_id	Default"
+			],
+			[
+				"user",
+				"user-listing"
+			],
+			[
+				"user-li",
+				"user-listing-page"
+			],
+			[
+				"makeLanese",
+				"makeLanesVisibleFromIds"
+			],
+			[
+				"visib",
+				"visible_ids"
+			],
+			[
+				"revenue",
+				"revenue_share"
+			],
+			[
+				"vis",
+				"visible_ids"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"Choice",
+				"ChoiceInline	Default"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"reve",
+				"revenueShare"
+			],
+			[
+				"str",
+				"stripeFee"
+			],
+			[
+				"revenu",
+				"revenueShare"
+			],
+			[
+				"revene",
+				"revenue_share"
+			],
+			[
+				"Strip",
+				"StripeService"
+			],
+			[
+				"our",
+				"ourFee"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"Task new",
+				"Tasks: New document"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ruby",
+				"RubyEval: ruby_eval"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Task",
+				"Tasks: New document"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"Packac",
+				"Package Control: List Packages"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"git bla",
+				"Github: Blame"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"blame",
+				"Github: Blame"
+			],
+			[
+				"commit",
+				"Git: Commit history"
+			],
+			[
+				"history",
+				"Git: Commit history"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"feth",
+				"Fetch: Manage"
+			],
+			[
+				"blam",
+				"Github: Blame"
+			],
+			[
+				"Blame",
+				"Git: Blame"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"tasknewdo",
+				"Tasks: New document"
+			],
+			[
+				"tasknew",
+				"Tasks: New"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"bla",
+				"Github: Blame"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"synsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pak",
+				"Package Control: Create Package File"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"snipfo",
+				"Snippet: for"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"togglmini",
+				"View: Toggle Minimap"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git",
+				"GitHubinator Blame"
+			],
+			[
+				"gib",
+				"Github: Blame"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"task new",
+				"Tasks: New"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntahtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"synthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snipif",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"snipf",
+				"Snippet: Function"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"snip",
+				"Snippet: Creates a new controller with admin routes"
+			],
+			[
+				"snifun",
+				"Snippet: Function"
+			],
+			[
+				"snipost",
+				"Snippet: POST['…']"
+			],
+			[
+				"snipComp",
+				"Snippet: Creates a new component"
+			],
+			[
+				"snip ca",
+				"Snippet: Creates a new component"
+			],
+			[
+				"snipbabmo",
+				"Snippet: Backbone Model"
+			],
+			[
+				"syncof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntajs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sn htmle",
+				"Snippet: <?php echo htmlentities(…) ?>"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"sn echo",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"html ",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"s html",
+				"Snippet: html"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasct",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 92.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 2 Proficiency Levels (Chris Cinelli's conflicted copy 2014-01-21).sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 2 Proficiency Levels.sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 3 Indicator Depth Levels.sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 4 Indicators.sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 5 Indicator Ancestors.sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 6 Indicator Proficiency Levels.sql",
+		"/Users/brycereynolds/Downloads/Rubric Creation Scripts/STEP 1 Rubrics.sql",
+		"/Users/brycereynolds/Sites/poeitems/schema/mod_name_lookup.json",
+		"/Users/brycereynolds/Sites/poeitems/css/site.less",
+		"/Users/brycereynolds/Sites/poeitems/js/main.coffee",
+		"/Users/brycereynolds/Sites/poeitems/item_armour.html",
+		"/Users/brycereynolds/Sites/poeitems/schema/mods.json",
+		"/Users/brycereynolds/Sites/poeitems/js/main.js",
+		"/Users/brycereynolds/Sites/poeitems/schema/items.json",
+		"/Users/brycereynolds/Sites/poeitems/index.html",
+		"/Users/brycereynolds/Sites/poeitems/item_weapons.html",
+		"/Users/brycereynolds/Sites/poeitems/item_jewelry.html",
+		"/Users/brycereynolds/Sites/poeitems/schema/mod_lookup.json",
+		"/Users/brycereynolds/Sites/poeitems/schema/mod_as_strings.txt",
+		"/Users/brycereynolds/Sites/poeitems/schema/mod_as_strings.json",
+		"/Users/brycereynolds/Sites/poeitems/schema/armour.json",
+		"/Users/brycereynolds/Sites/poeitems/schema/weapons.json",
+		"/Users/brycereynolds/Sites/poeitems/schema/jewelry.json",
+		"/Users/brycereynolds/Sites/poeitems/css/theme-flat-ui.css",
+		"/Users/brycereynolds/Sites/poeitems/item_data.html",
+		"/Users/brycereynolds/Sites/poeitems/weapon_data.html",
+		"/Users/brycereynolds/Sites/poeitems/schema/items-formatted.json",
+		"/Users/brycereynolds/Sites/poeitems/js/json2.js",
+		"/Users/brycereynolds/Sites/poeitems/js/backbone.js",
+		"/Users/brycereynolds/Sites/poeitems/jasmine/SpecRunner.html",
+		"/Users/brycereynolds/Sites/poeitems/jasmine/spec/PlayerSpec.js",
+		"/Users/brycereynolds/Sites/poeitems/jasmine/spec/ItemSpec.js",
+		"/Users/brycereynolds/Sites/poeitems/js/plugins.js",
+		"/Users/brycereynolds/Sites/poeitems/schema/test.json",
+		"/Users/brycereynolds/Documents/Design Resources/Full Templates/Bootstrap_KIT_plus/LANDING_DARK_FLAT/indexlanding.htm",
+		"/Users/brycereynolds/Sites/poeitems/js/less.js",
+		"/Users/brycereynolds/Sites/poeitems/css/site.css",
+		"/Users/brycereynolds/Sites/poeitems/css/main.css",
+		"/Users/brycereynolds/.slate.js",
+		"/Users/brycereynolds/Documents/BloomBoard/SCRATCH_PAD.todo",
+		"/Users/brycereynolds/Downloads/jquery.inview-master 2/example/simple_example.html",
+		"/Users/brycereynolds/Documents/BloomBoard/PRD/summativeAndSnapshots/AggregateRatingsAndEvidence.TODO",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/Component/ObservationUIComponent.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/TeacherDashboardController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/Component/UserServiceComponent.php",
+		"/Users/brycereynolds/Sites/fl/schema/db.test_data.changelog.xml",
+		"/Users/brycereynolds/.rvm/log/1378967322_ruby-1.9.2-p290/update_system.log",
+		"/usr/local/Library/Formula/wine.rb",
+		"/usr/local/Library/Formula/enchant.rb",
+		"/Users/brycereynolds/.bash_profile",
+		"/Users/brycereynolds/.rvm/log/1378964826_ruby-2.0.0-p247/update_system.log",
+		"/Users/brycereynolds/.gemrc",
+		"/Users/brycereynolds/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/brycereynolds/NOTES.TODO",
+		"/Users/brycereynolds/Documents/BloomBoard/PRD/GeneralMeetings/GeneralMeetings.TODO",
+		"/Users/brycereynolds/.gitconfig",
+		"/Users/brycereynolds/MY_WIKI.TODO",
+		"/Users/brycereynolds/Completed_Migration_Tasks.TODO",
+		"/Users/brycereynolds/Documents/BloomBoard/PRD/GeneralMeetings/notes.TODO",
+		"/Users/brycereynolds/Library/Application Support/Sublime Text 2/Packages/User/PlainTasks.sublime-settings",
+		"/Users/brycereynolds/Library/Application Support/Sublime Text 2/Packages/User/PlainTasks/tasks-bryce.hidden-tmTheme",
+		"/Users/brycereynolds/Library/Application Support/Sublime Text 2/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/brycereynolds/Library/Application Support/Sublime Text 2/Packages/PlainTasks/tasks.hidden-tmTheme",
+		"/Users/brycereynolds/Sites/fl/html/app/View/Crocodoc/basic.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/CrocodocController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/View/Crocodoc/index.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flSelect.js",
+		"/Users/brycereynolds/Sites/fl/scripts/config-trinity/applicationTemplate.php",
+		"/Users/brycereynolds/Sites/hubot-master/hubot/package.json",
+		"/Users/brycereynolds/Sites/hubot-master/hubot/Procfile",
+		"/Users/brycereynolds/hubot-master/hubot/package.json",
+		"/Users/brycereynolds/hubot-master/hubot/Procfile",
+		"/Users/brycereynolds/Sites/fl/conf/application.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/Component/PurchaseServiceComponent.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/scriptingTagging.js",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/UserTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/OrganizationUserTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/ScheduleController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Controller/ScheduleControllerTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Console/Command/ExportResourcesShell.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Console/Command/ExportThumbnailShell.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Console/Command/QueueProcessorsStarterShell.php",
+		"/Users/brycereynolds/Sites/fl/moodle/admin/user.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForUser.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/OrganizationUser.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/AppTestCase.php",
+		"/Users/brycereynolds/Sites/fl/html/app/View/OrganizationAdmin/OrgAdminObservationTemplate/index.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/observation_manage.js",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/css/observation_manage.css",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/OrganizationAdmin/OrgAdminObservationTemplateController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/backbone/forms/bloomboard-editors.js",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/ObservationTemplate.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/ReviewController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/ActivityGroup.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForReviews.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/CoachFormalObservationsController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/EvidenceCollectionController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/Evidence.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/ResourceTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Controller/Component/ResourceServiceComponentTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForObservationTemplates.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/backbone/forms/bloomboard-forms.js",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/backbone/forms/backbone-forms.js",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/AllTestsTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForRubric.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/ActivityGroupFinalRatingTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/chosen/chosen.jquery.js",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/ActivityGroupTemplate.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Controller/GoalsController.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/Rubric.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/RubricTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForResources.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/ResourceUseAccessTest.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/select2.js",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/select2.css",
+		"/Users/brycereynolds/Sites/fl/html/app/View/Resources/consume.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/Resource.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/mysql/MySqlQueriesForOrganizations.php",
+		"/Users/brycereynolds/Sites/fl/html/app/Model/Organization.php",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/purchases/purchase_service.js",
+		"/Users/brycereynolds/Sites/fl/html/app/View/CoachFormalObservations/index.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/View/OrganizationAdmin/OrgAdminUsers/index.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/webroot/js/chosen/chosenWithTemplates.jquery.js",
+		"/Users/brycereynolds/Sites/fl/html/app/View/TeacherDashboard/index.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/View/OrganizationAdmin/OrgAdminUsers/manage.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/View/Goals/show.ctp",
+		"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model/OrganizationTest.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/brochure/shared/scss/foundation/components",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl",
+			"/Users/brycereynolds/Sites/advanced_coating_solutions/trunk/themes",
+			"/Users/brycereynolds/Sites/client/acs/blocks",
+			"/Users/brycereynolds/Sites/client/acs/themes/advanced-coating-solutions",
+			"/Users/brycereynolds/Sites/client/acs",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/brochure",
+			"/Users/brycereynolds/Sites/brochure/blog",
+			"/Users/brycereynolds/Sites/brochure/blog/wp-content/themes/basestation",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js",
+			"/Users/brycereynolds/Sites/fl/html/app/Test",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/css",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js/resourceUpload",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js/resourceUpload/templates",
+			"/Users/brycereynolds/Sites/fl/html/app/View",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js/resourceUpload",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/css",
+			"/Users/brycereynolds/Sites/fl/",
+			"/Users/brycereynolds/Sites/fl/html",
+			"/Users/brycereynolds/Sites/fl/html/app/Test/Case/Model",
+			"/Users/brycereynolds/Sites/fl/html/app/Tests/Case/Model",
+			"/Users/brycereynolds/Sites/fl/html",
+			"/Users/brycereynolds/Sites/fl/html/app/Test",
+			"/Users/brycereynolds/Sites/fl/html",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/scripts/",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js/changeIndicator.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/changeMark.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/ck_editor_test.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/coachDashboard.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/coachFormalObservation.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/comments.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/content_test.js.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/crocodoc.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/date.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/documentLayout.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/document_evidence_upload_handlers.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/fl-utilities.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/fl.class.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/fl.indicators.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/goal.bloomlist.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/goals.indicators.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/goals.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/gridExamples.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/highlight-txt.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/infinity.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jCal.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery-1.7.2.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery-1.7.2.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery-1.8.3.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery-1.8.3.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery-ui-1.8.16.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.Jcrop.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.Timepick.1.2.9-offshore.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.Timepick.1.2.9.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.animate.clip.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.autoresize.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.autosize.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.ba-tinypubsub.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.badonkatrunc.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.beautyOfCode.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.cookie.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.expander.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flDropbox.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flModalBuilder.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flPlaceholder.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flSelect.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.flSerializeObject.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.fogLoader.0.9.1.pack.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.hotkeys.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.hoverIntent.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.iframe-transport.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.iframer.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.json-2.3.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.lionbars.0.3.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.placeholder.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.sortElements.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery.timeago.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jquery_datepicker.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jsonStringify.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/jwplayer.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/less-1.1.6.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/less-1.1.6.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/login.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/manageGoals.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/mobileTagging.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/moment.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/nav.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/new-login.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/newsharing.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/observationRescheduling.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/observationSharing.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/observation_manage.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/old-home.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/peoplePicker.coffee,/Users/brycereynolds/Sites/fl/html/app/webroot/js/peoplePicker.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/popcorn.bbplugin.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/popcorn.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/popcorn.jwplayer.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/popcorn.noplugins.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/popcorn.subtitle.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/posts.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/profile.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/q_and_a_form.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/question.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/qunit-1.10.0.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/rating.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/require.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.indicatorPicker.coffee,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.indicatorPicker.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.library.coffee,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.library.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.sideTabs.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.videoTagging.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/resources.view.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/review.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/review_select_aggregation_dates.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/rubric_editor.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/scriptingTagging.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/select2.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/select2.min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/setNewPassword.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/sharing.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/sideIndicators.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/sideIndicators_goals.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/signingLocking.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/stacktrace.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/stream.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/survey_observation.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/swfobject.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/swimlanes.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/teacherDashboard.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/teacherDashboardCoachView.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/teacherFormalObservation.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/teacher_dashboard_notifications.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/teachers.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/test_payment_module.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/text.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/underscore-1.3.3.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/underscore-min.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/upgradeBrowser.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/uploadContentFo.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/video_styles.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/video_tests.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/webcam.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/wizard.js,/Users/brycereynolds/Sites/fl/html/app/webroot/js/zxcvbn-async.js",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/schema",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot/js",
+			"/Users/brycereynolds/Sites/fl/html/app/webroot",
+			"/Users/brycereynolds/Sites/fl/html/app/View",
+			"/Users/brycereynolds/Sites/seasons/templates",
+			"/Users/brycereynolds/Sites/fl/html/app",
+			"/Users/brycereynolds/Sites/fl/html/app/Controller",
+			"/Users/brycereynolds/Sites/fl/html/app/View/Emails",
+			"Views/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"mods",
+			"Rarity",
+			"hybridRolls",
+			"value_max_two",
+			"value_min_two",
+			"mond",
+			"max_value",
+			"min_value",
+			"min_value_two",
+			"1",
+			"possibleRolls",
+			"mod",
+			"val",
+			"nameString",
+			"string",
+			"allRolls",
+			"@.get('affinities')",
+			"@.get('item_level')",
+			"@.get('type')",
+			"mod",
+			"considering",
+			"values",
+			"'(",
+			"filter",
+			"chests",
+			"amulets",
+			"rings",
+			"chest",
+			"nameLookup",
+			" = 0",
+			"items[cleanType]",
+			",\n  ]",
+			":\"",
+			"\"#% increased block and stun recovery\":",
+			"{\"",
+			"  }",
+			"\",\"",
+			"]",
+			"[",
+			"req_int",
+			"type",
+			"str",
+			"yes (",
+			"req_dex",
+			"level",
+			"type",
+			"mod_lookup",
+			"items",
+			"#.#",
+			", ",
+			"adds",
+			"cold",
+			"/",
+			"[num]",
+			"min_value",
+			"Accuracy Rating",
+			"Yes",
+			"\"([0-9]+)\"",
+			"(\"[0-9]+\")",
+			"td",
+			"]",
+			"=",
+			"level",
+			" =",
+			"level",
+			"0",
+			"62",
+			"Energy Shield",
+			"Energy Shidl",
+			"body armour",
+			"Energy Shield",
+			"body armour",
+			"      console.log(\"MODEL\", @model.toJSON())\nbody armour",
+			"'",
+			"itemsJson",
+			"//",
+			"modsJson",
+			"armour",
+			"chest",
+			".toLowerCase().replace(\"'\", \"\")",
+			"one hand axe",
+			"rarity",
+			"name",
+			"get_json",
+			"getJson",
+			"get_json",
+			"here",
+			"itemlevel",
+			"item_type",
+			"section.",
+			"border-radius",
+			"webfont",
+			"item_roll",
+			"border-radius",
+			"( )+$",
+			"assets",
+			"( )+$",
+			"assets",
+			"\\\\\\/",
+			"<<<",
+			"/usr/local/Cellar/imagemagick/6.8.0-10/bin/",
+			"export",
+			"_holder",
+			"phpexcel",
+			"%>\">",
+			"true",
+			"setUseTemplateIndicators",
+			"_updateTemplateDropdownWithOrganizationsTemplates",
+			"bloomboard",
+			"NODE",
+			"bind",
+			"QueueProcessorsStarterShell.php",
+			"getDataForObservationScheduling",
+			"testStatusDataForObservationScheduling",
+			"testGetUsersForOrganization",
+			"getSelection",
+			"aggregateActivityGroupIdsForThisObservation",
+			"delete",
+			"deleteEvidence",
+			"delete",
+			"_setRubricSpecificDataForIndex",
+			"_modelObservationTemplateOffThisId",
+			"activityGroupTemplateIdToCo",
+			"name",
+			"id",
+			"qct",
+			"bloomboard-forms",
+			"indicatorHtmlFromRubricId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"yes",
+			"$1",
+			"chest",
+			"",
+			"/",
+			"",
+			"$($1, this.$el",
+			"",
+			"BB['BLOG']",
+			"BB['SITE']",
+			"$BB['PATH']",
+			"createResourceContentAttempt(",
+			"createResourceContentAttempt",
+			"resourceContentAttemptCreate",
+			"ResourceAttempt",
+			"ResourceContentAttempt",
+			"data_resource_content_attempt_evidence_id",
+			"this->ResourceContent",
+			"ResourceContentTest",
+			"ResourceContent::TYPE_",
+			"Resource::TYPE_BUNDLE",
+			"  ",
+			"$c",
+			"$content",
+			"a[",
+			"x[",
+			"][",
+			"",
+			"s.",
+			"search."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.456543489012,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"item_arm",
+				"item_armour.html"
+			],
+			[
+				"item_we",
+				"item_weapons.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"mod_namelo",
+				"schema/mod_name_lookup.json"
+			],
+			[
+				"jew",
+				"schema/jewelry.json"
+			],
+			[
+				"item_jw",
+				"item_jewelry.html"
+			],
+			[
+				"weapon",
+				"schema/weapons.json"
+			],
+			[
+				"item_weap",
+				"item_weapons.html"
+			],
+			[
+				"armou.js",
+				"schema/armour.json"
+			],
+			[
+				"arm.js",
+				"schema/armour.json"
+			],
+			[
+				"jew.js",
+				"schema/jewelry.json"
+			],
+			[
+				"weapons",
+				"schema/weapons.json"
+			],
+			[
+				"item_wea",
+				"item_weapons.html"
+			],
+			[
+				"playerspe",
+				"jasmine/spec/PlayerSpec.js"
+			],
+			[
+				"specr",
+				"jasmine/SpecRunner.html"
+			],
+			[
+				"back",
+				"js/backbone.js"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"plugin",
+				"js/plugins.js"
+			],
+			[
+				"themfl",
+				"css/theme-flat-ui.css"
+			],
+			[
+				"main.co",
+				"js/main.coffee"
+			],
+			[
+				"theme",
+				"css/theme-flat-ui.css"
+			],
+			[
+				"test.js",
+				"schema/test.json"
+			],
+			[
+				"mod",
+				"schema/mods.json"
+			],
+			[
+				"obsemanag.cs",
+				"html/app/webroot/css/observation_manage.css"
+			],
+			[
+				"bloombo-edi",
+				"html/app/webroot/js/backbone/forms/bloomboard-editors.js"
+			],
+			[
+				"observation_ma.js",
+				"html/app/webroot/js/observation_manage.js"
+			],
+			[
+				"observationtemplate/",
+				"html/app/View/OrganizationAdmin/OrgAdminObservationTemplate/index.ctp"
+			],
+			[
+				"application",
+				"scripts/config-trinity/applicationTemplate.php"
+			],
+			[
+				"purchaseservice",
+				"html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php"
+			],
+			[
+				"exportthumbnailshell.php",
+				"html/app/Console/Command/ExportThumbnailShell.php"
+			],
+			[
+				"exportresourcesshell.php",
+				"html/app/Console/Command/ExportResourcesShell.php"
+			],
+			[
+				"queueprocessorsstartershell.php",
+				"html/app/Console/Command/QueueProcessorsStarterShell.php"
+			],
+			[
+				"sche",
+				"html/app/Controller/ScheduleController.php"
+			],
+			[
+				"scheduleconte",
+				"html/app/Test/Case/Controller/ScheduleControllerTest.php"
+			],
+			[
+				"schedulcon",
+				"html/app/Controller/ScheduleController.php"
+			],
+			[
+				"orguserte",
+				"html/app/Test/Case/Model/OrganizationUserTest.php"
+			],
+			[
+				"user.php",
+				"moodle/admin/user.php"
+			],
+			[
+				"usertest",
+				"html/app/Test/Case/Model/UserTest.php"
+			],
+			[
+				"myforuser",
+				"html/app/Model/mysql/MySqlQueriesForUser.php"
+			],
+			[
+				"organizu",
+				"html/app/Model/OrganizationUser.php"
+			],
+			[
+				"orgausertest",
+				"html/app/Test/Case/Model/OrganizationUserTest.php"
+			],
+			[
+				"crocodoc/index",
+				"html/app/View/Crocodoc/index.ctp"
+			],
+			[
+				"applica",
+				"conf/application.php"
+			],
+			[
+				"purchaseserv",
+				"html/app/Controller/Component/PurchaseServiceComponent.php"
+			],
+			[
+				"apptestc",
+				"html/app/Test/Case/Model/AppTestCase.php"
+			],
+			[
+				"purchaseser",
+				"html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php"
+			],
+			[
+				"purchases",
+				"html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php"
+			],
+			[
+				"servicectest",
+				"html/app/Test/Case/Controller/Component/ResourceServiceComponentTest.php"
+			],
+			[
+				"resourcetest",
+				"html/app/Test/Case/Model/ResourceTest.php"
+			],
+			[
+				"actigroup",
+				"html/app/Model/ActivityGroup.php"
+			],
+			[
+				"evidence",
+				"html/app/Model/Evidence.php"
+			],
+			[
+				"coafh",
+				"html/app/Controller/CoachFormalObservationsController.php"
+			],
+			[
+				"myforreviews",
+				"html/app/Model/mysql/MySqlQueriesForReviews.php"
+			],
+			[
+				"activitygroup.",
+				"html/app/Model/ActivityGroup.php"
+			],
+			[
+				"reviewcontr",
+				"html/app/Controller/ReviewController.php"
+			],
+			[
+				"myobserv",
+				"html/app/Model/mysql/MySqlQueriesForObservationTemplates.php"
+			],
+			[
+				"observatte",
+				"html/app/Model/ObservationTemplate.php"
+			],
+			[
+				"blooedit",
+				"html/app/webroot/js/backbone/forms/bloomboard-editors.js"
+			],
+			[
+				"bloomboard-fo",
+				"html/app/webroot/js/backbone/forms/bloomboard-forms.js"
+			],
+			[
+				"backbo-fo",
+				"html/app/webroot/js/backbone/forms/backbone-forms.js"
+			],
+			[
+				"backbone-forms",
+				"html/app/webroot/js/backbone/forms/backbone-forms.js"
+			],
+			[
+				"alltest",
+				"html/app/Test/Case/AllTestsTest.php"
+			],
+			[
+				"purservicetest",
+				"html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php"
+			],
+			[
+				"",
+				"html/app/webroot/js/observation_manage.js"
+			],
+			[
+				"bloo",
+				"html/app/webroot/js/backbone/forms/bloomboard-editors.js"
+			],
+			[
+				"bloombo",
+				"html/app/webroot/js/backbone/forms/bloomboard-forms.js"
+			],
+			[
+				"forrubric",
+				"html/app/Model/mysql/MySqlQueriesForRubric.php"
+			],
+			[
+				"activitygroupfinalratingtest",
+				"html/app/Test/Case/Model/ActivityGroupFinalRatingTest.php"
+			],
+			[
+				"rubrictest",
+				"html/app/Test/Case/Model/RubricTest.php"
+			],
+			[
+				"forrubr",
+				"html/app/Model/mysql/MySqlQueriesForRubric.php"
+			],
+			[
+				"rubric",
+				"html/app/Model/Rubric.php"
+			],
+			[
+				"activitygroup",
+				"html/app/Model/ActivityGroup.php"
+			],
+			[
+				"actigrouptemp",
+				"html/app/Model/ActivityGroupTemplate.php"
+			],
+			[
+				"observationtemp",
+				"html/app/Controller/OrganizationAdmin/OrgAdminObservationTemplateController.php"
+			],
+			[
+				"resourceuseac",
+				"html/app/Test/Case/Model/ResourceUseAccessTest.php"
+			],
+			[
+				"select2",
+				"html/app/webroot/select2.css"
+			],
+			[
+				"chosen.jq",
+				"html/app/webroot/js/chosen/chosen.jquery.js"
+			],
+			[
+				"goals",
+				"html/app/Controller/GoalsController.php"
+			],
+			[
+				"myquerforres",
+				"html/app/Model/mysql/MySqlQueriesForResources.php"
+			],
+			[
+				"resource.ph",
+				"html/app/Model/Resource.php"
+			],
+			[
+				"obserte",
+				"html/app/Model/ObservationTemplate.php"
+			],
+			[
+				"orgobservat",
+				"html/app/Controller/OrganizationAdmin/OrgAdminObservationTemplateController.php"
+			],
+			[
+				"organitest",
+				"html/app/Test/Case/Model/OrganizationTest.php"
+			],
+			[
+				"orgtest.php",
+				"html/app/Test/Case/Model/OrganizationTest.php"
+			],
+			[
+				"acti",
+				"html/app/Model/ActivityGroupFinalRating.php"
+			],
+			[
+				"organizat",
+				"html/app/Model/Organization.php"
+			],
+			[
+				"backbone.j",
+				"mobile/app/scripts/backbone.js"
+			],
+			[
+				"layou.cs",
+				"html/app/webroot/css/layout.css"
+			],
+			[
+				"bb.back",
+				"html/app/webroot/js/bb.backbone.js"
+			],
+			[
+				"purchase_serv",
+				"html/app/webroot/js/purchases/purchase_service.js"
+			],
+			[
+				"observa_.cs",
+				"html/app/webroot/css/observation_manage.css"
+			],
+			[
+				"obsrma.cs",
+				"html/app/webroot/css/observation_manage.css"
+			],
+			[
+				"bloomboard-for",
+				"html/app/webroot/js/backbone/forms/bloomboard-forms.js"
+			],
+			[
+				"purch.css",
+				"html/app/webroot/css/purchases/purchase_service.css"
+			],
+			[
+				"orgadminobsrvation",
+				"html/app/View/OrganizationAdmin/OrgAdminObservationTemplate/index.ctp"
+			],
+			[
+				"backbone-for",
+				"html/app/webroot/js/backbone/forms/backbone-forms.js"
+			],
+			[
+				"appcont",
+				"app/Controller/AppController.php"
+			],
+			[
+				"database.php",
+				"app/Config/database.php.default"
+			],
+			[
+				"core.",
+				"app/Config/core.php"
+			],
+			[
+				"swimlanec",
+				"html/app/Controller/Component/SwimlaneComponent.php"
+			],
+			[
+				"swimlanetest",
+				"html/app/Test/Case/Controller/Component/SwimlaneComponentTest.php"
+			],
+			[
+				"purchaseserviceco",
+				"html/app/Test/Case/Controller/Component/PurchaseServiceComponentTest.php"
+			],
+			[
+				"contenttest",
+				"html/app/Test/Case/Model/ContentTest.php"
+			],
+			[
+				"activityappointmenttest",
+				"html/app/Test/Case/Model/ActivityAppointmentTest.php"
+			],
+			[
+				"subjecttest",
+				"html/app/Test/Case/Model/SubjectTest.php"
+			],
+			[
+				"resource.",
+				"html/app/Model/Resource.php"
+			],
+			[
+				"queriesforres",
+				"html/app/Model/mysql/MySqlQueriesForResources.php"
+			],
+			[
+				"resource.php",
+				"html/app/Model/Resource.php"
+			],
+			[
+				"question.",
+				"html/app/Model/Question.php"
+			],
+			[
+				"sur",
+				"html/app/Controller/SurveyController.php"
+			],
+			[
+				"questiontest",
+				"html/app/Test/Case/Model/QuestionTest.php"
+			],
+			[
+				"content.",
+				"html/app/Model/Content.php"
+			],
+			[
+				"contette",
+				"html/app/Test/Case/Model/ContentTest.php"
+			],
+			[
+				"add_resource_content_id_to_content_annotations",
+				"schema/feature/4296_bundles/add_resource_content_id_to_content_annotations.xml"
+			],
+			[
+				"db",
+				"schema/db.changelog.xml"
+			],
+			[
+				"print",
+				"html/app/View/Review/print_final.ctp"
+			],
+			[
+				"reviewprint",
+				"html/app/webroot/css/review_print.css"
+			],
+			[
+				"indicatorprint",
+				"html/app/View/Elements/Review/indicators_print.ctp"
+			],
+			[
+				"evalu",
+				"html/app/webroot/css/evaluation_ratings.css"
+			],
+			[
+				"reviewcont",
+				"html/app/Controller/ReviewController.php"
+			],
+			[
+				"usercontr",
+				"html/app/Controller/UsersController.php"
+			],
+			[
+				"joyri",
+				"html/app/webroot/css/joyride/joyride-2.0.3.css"
+			],
+			[
+				"evaluation_",
+				"html/app/webroot/css/evaluation_ratings.css"
+			],
+			[
+				"indi",
+				"html/app/View/Elements/Review/indicators.ctp"
+			],
+			[
+				"indicators.ct",
+				"html/app/View/Elements/Goals/indicators.ctp"
+			],
+			[
+				"review.",
+				"html/app/View/Elements/CoachFormalObservations/review.ctp"
+			],
+			[
+				"review.ctp",
+				"html/app/View/Elements/CoachFormalObservations/final_review.ctp"
+			],
+			[
+				"resourceservi",
+				"html/app/Controller/Component/ResourceServiceComponent.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true
+}

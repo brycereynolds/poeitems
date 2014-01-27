@@ -1,0 +1,98 @@
++# to accuracy rating,Accuracy Rating
++# to all attributes,Additional All Attributes
++# to dexterity,Additional Dexterity
++# to intelligence,Additional Intelligence
++# to strength,Additional Strength
++# to armour,Armor Rating
+#% increased armour,Armor Rating +%
+#% increased attack speed,Attack Speed +%
+#% increased cast speed,Base Cast Speed +%
++#% to chaos resistance,Base Chaos Dmg Resistance %
++#% to cold resistance,Base Cold Dmg Resistance %
+#% increased global critical strike multiplier,Base Critical Strike Multiplier +%
++# to evasion rating,Base Evasion Rating
++#% to fire resistance,Base Fire Dmg Resistance %
+#% increased quantity of items found,Base Item Found Quantity +%
+#% increased rarity of items found,Base Item Found Rarity +%
+#.# life regenerated per second,Base Life Regeneration Rate Per Second
++#% to lightning resistance,Base Lightning Dmg Resistance %
++# to maximum energy shield,Base Max Energy Shield
++# to maximum life,Base Max Life
++# to maximum mana,Base Max Mana
+adds #-# cold damage,Base Min Added Cold Dmg / Base Max Added Cold Dmg
+adds #-# fire damage,Base Min Added Fire Dmg / Base Max Added Fire Dmg
+adds #-# lightning damage,Base Min Added Lightning Dmg / Base Max Added Lightning Dmg
+adds #-# physical damage,Base Min Added Physical Dmg / Base Max Added Physical Dmg
+#% increased movement speed,Base Movement Velocity +%
++#% to all elemental resistances,Base Resist All Elements %
+#% increased stun duration on enemies,Base Stun Duration +%
+#% increased block and stun recovery,Base Stun Recovery +%
+#% reduced enemy stun threshold,Base Stun Threshold Reduction +%
+#% increased flask charges gained,Charges Gained +%
+#% increased cold damage,Cold Dmg +%
+#% increased critical strike chance,Critical Strike Chance +%
+#% increased evasion rating,Evasion Rating +%
+#% increased fire damage,Fire Dmg +%
+#% reduced flask charges used,Flask Charges Used +%
+#% increased flask effect duration,Flask Duration +%
+#% increased flask life recovery rate,Flask Life Recovery Rate +%
+#% increased flask mana recovery rate,Flask Mana Recovery Rate +%
++# life gained for each enemy hit by your attacks,Life Gain Per Target
++# life gained for each enemy hit by your spells,Life Gain Per Target
++# life gained on kill,Life Gained On Enemy Death
+adds #% life leech to physical attack damage during flask effect,Life Leech From Physical Dmg %
+#% increased light radius,Light Radius / +Accuracy Rating
++# accuracy rating,Light Radius / +Accuracy Rating
+#% increased Lightning Damage,Lightning Dmg +%
++# to accuracy rating,Local Accuracy Rating
+#% additional block chance,Local Additional Block Chance %
+#% increased armour,Local Armor +%
+#% increased armour,Local Armor +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Armor +% / Base Stun Recovery +%
++# to armour,Local Armor Rating
+#% increased armour and energy shield,Local Armour And Energy Shield +%
+#% increased armour and energy shield,Local Armour And Energy Shield +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Armour And Energy Shield +% / Base Stun Recovery +%
+#% increased armour and evasion,Local Armour And Evasion +%
+#% increased armour and evasion,Local Armour And Evasion +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Armour And Evasion +% / Base Stun Recovery +%
+#% increased Attack Speed,Local Attack Speed +%
+#% reduced attribute requirements,Local Attribute Requirements -%
+#% increased critical strike chance,Local Critical Strike Chance +%
++# to maximum energy shield,Local Energy Shield
+#% increased energy shield,Local Energy Shield +%
+#% increased energy shield,Local Energy Shield +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Energy Shield +% / Base Stun Recovery +%
+#% increased evasion and energy shield,Local Evasion And Energy Shield +%
+#% increased evasion and energy shield,Local Evasion And Energy Shield +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Evasion And Energy Shield +% / Base Stun Recovery +%
++# to evasion rating,Local Evasion Rating
+#% increased evasion rating,Local Evasion Rating +%
+#% increased evasion rating,Local Evasion Rating +% / Base Stun Recovery +%
+#% increased block and stun recovery,Local Evasion Rating +% / Base Stun Recovery +%
+adds #-# cold damage,Local Min Added Cold Dmg / Local Max Added Cold Dmg
+adds #-# fire damage,Local Min Added Fire Dmg / Local Max Added Fire Dmg
+adds #-# lightning damage,Local Min Added Lightning Dmg / Local Max Added Lightning Dmg
+adds #-# physical damage,Local Min Added Physical Dmg / Local Max Added Physical Dmg
+#% increased physical damage,Local Physical Dmg +%
+#% increased physical damage,Local Physical Dmg +% / Local Accuracy Rating
++# to accuracy rating,Local Physical Dmg +% / Local Accuracy Rating
++# to level of bow gems in this item,Local Socketed Bow Gem Level +
++# to level of cold gems in this item,Local Socketed Cold Gem Level +
++# to level of fire gems in this item,Local Socketed Fire Gem Level +
++# to level of gems in this item,Local Socketed Gem Level +
++# to level of lightning gems in this item,Local Socketed Lightning Gem Level +
++# to level of melee gems in this item,Local Socketed Melee Gem Level +
++# to level of minion gems in this item,Local Socketed Minion Gem Level +
++# mana gained on kill,Mana Gained On Enemy Death
+adds #% mana leech to physical attack damage during flask effect,Mana Leech From Physical Dmg %
+#% increased mana regeneration rate,Mana Regeneration Rate +%
+#% increased energy shield,Max Energy Shield +%
+#% of melee physical damage taken reflected to attacker,Physical Dmg To Return To Melee Attacker
+#% increased projectile speed,Projectile speed +%
+#% increased critical strike chance for spells,Spell Critical Strike Chance +%
+#% increased spell damage,Spell Dmg +%
+#% increased spell damage,Spell Dmg +% / Base Max Mana
++# to maximum mana,Spell Dmg +% / Base Max Mana
+#% increased elemental damage with weapons,Weapon Elemental Dmg +%
+#% increased critical strike multiplier with melee weapons,Weapon-only Critical Strike Multiplier +%

@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="css/foundation.css" />
+
+    <script src="js/vendor/modernizr.js"></script>
+    <script src="js/vendor/less.js"></script>
+</head>
+<body>
+
+<style type="text/css">
+    body{
+        padding: 50px;
+    }
+</style>
+
+    <div class="row">
+        <div class="large-6 medium-6 columns">
+            <label>Paste Item Details Here</label>
+            <textarea id="pasteHolder" class="form-control" placeholder="Paste Here (Ctrl + C while hovering over item in-game)" style="height: 500px;">
+Rarity: Rare
+Havoc Keep
+Praetor Crown
+--------
+Quality: +20% (augmented)
+Armour: 240 (augmented)
+Energy Shield: 108 (augmented)
+--------
+Requirements:
+Level: 68
+Str (gem): 144 (unmet)
+Dex (gem): 132 (unmet)
+Int (gem): 136 (unmet)
+--------
+Sockets: R-B-G-B 
+--------
+Itemlevel: 75
+--------
+43% increased Armour and Energy Shield
++75 to maximum Life
+44% increased Rarity of Items found
++35% to Fire Resistance
+15% increased Block and Stun Recovery
+            </textarea>
+            <button id="rollItemButton" type="button" class="btn btn-primary btn-lg">Roll Item</button>
+        </div>
+        <div class="large-6 medium-6 columns">
+            <div id="roll_mod_holder"></div>
+        </div>
+    </div>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/backbone.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+</body></html>
